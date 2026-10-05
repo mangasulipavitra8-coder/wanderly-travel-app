@@ -91,17 +91,18 @@ wanderly-travel-app/
 ├── README.md
 └── .gitignore
 
-🌐 APIs Used
-Open-Meteo
+## 🌐 APIs Used
+
+### Open-Meteo
 
 Wanderly uses Open-Meteo for:
 
-Destination geocoding
-Current weather information
-Temperature
-Humidity
-Wind speed
-Feels-like temperature
+- Destination geocoding
+- Current weather information
+- Temperature
+- Humidity
+- Wind speed
+- Feels-like temperature
 
 No API key is required for the current implementation.
 
@@ -123,5 +124,4 @@ LinkedIn: https://www.linkedin.com/in/pavitra-mangasule/
 
 
 📄 License
-
 This project is created for learning and portfolio purposes.
